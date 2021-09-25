@@ -9,8 +9,6 @@
 # Lab Homework Readme
 [__Search Lab__](https://www.google.com/)
 
-[](https://image.freepik.com/free-psd/google-account-apps-3d-icon-logo-round-corner-square_384205-118.jpg)
-
 > Lab Lists
 >> 1. Lab01
 >> 2. Lab02
@@ -26,7 +24,11 @@ ___
 
 | Date | Description |
 --|--
-| 1 Jan 21 | 
+| 23 Sep 21 | Learn Git |
+| 24 Sep 21 | Lab Git |
+| 25 Sep 21 | Homework Git |
+
+![Lab](https://image.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038.jpg)
 
 
 

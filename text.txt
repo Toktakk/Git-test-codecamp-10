@@ -1,1 +1,3 @@
 line 4
+
+add new text merge for develop 

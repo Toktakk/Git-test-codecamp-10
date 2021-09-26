@@ -3,4 +3,4 @@ line 4
 add new text merge for develop 
 add line lab flow
 
-add new text lab merge for conflict main
+add text not conflict

@@ -1,3 +1,18 @@
-add line lab flow
+line 4
 
-add new text lab merge for conflict main
+add line 3
+
+add line 5
+add line 6
+
+line 4--
+
+line 6--
+
+line 8
+
+line 10
+
+line 12
+
+add line 18
